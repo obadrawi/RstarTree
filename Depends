@@ -1,0 +1,3 @@
+main.o: main.cpp
+MinBoundingBox.o: MinBoundingBox.cpp MinBoundingBox.h
+RstarTreeNode.o: RstarTreeNode.cpp RstarTreeNode.h MinBoundingBox.h
